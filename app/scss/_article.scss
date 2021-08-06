@@ -2,9 +2,6 @@
     background-color: $veryLightGray;
 }
 .article {
-    &__content {
-    }
-
     &__grid {
         display: grid;
         // will take up as much space as possible
